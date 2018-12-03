@@ -32,7 +32,6 @@ class QuestionViewController: UIViewController {
     }
     
     
-    
     struct QuestionAnswer{
         var view:String
         var question:String
