@@ -1,0 +1,399 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4308EB1621B2D25D00B1A33F /* taylor swift - blank space.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1521B2D25D00B1A33F /* taylor swift - blank space.mp3 */; };
+		4308EB2A21B2D26A00B1A33F /* 周湯豪 - 帥到分手.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1721B2D26800B1A33F /* 周湯豪 - 帥到分手.mp3 */; };
+		4308EB2B21B2D26A00B1A33F /* 苏运莹 - 野子.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1821B2D26800B1A33F /* 苏运莹 - 野子.mp3 */; };
+		4308EB2C21B2D26A00B1A33F /* 久石壤 - Kaeru Hi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1921B2D26900B1A33F /* 久石壤 - Kaeru Hi.mp3 */; };
+		4308EB2D21B2D26A00B1A33F /* 鄧紫棋 - 倒數.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1A21B2D26900B1A33F /* 鄧紫棋 - 倒數.mp3 */; };
+		4308EB2E21B2D26A00B1A33F /* 孫燕姿 - 第一天.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1B21B2D26900B1A33F /* 孫燕姿 - 第一天.mp3 */; };
+		4308EB2F21B2D26A00B1A33F /* 棉花糖 - 欠一個勇敢.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1C21B2D26900B1A33F /* 棉花糖 - 欠一個勇敢.mp3 */; };
+		4308EB3021B2D26A00B1A33F /* 夏婉安 - 習慣.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1D21B2D26900B1A33F /* 夏婉安 - 習慣.mp3 */; };
+		4308EB3121B2D26A00B1A33F /* Maplestory.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1E21B2D26900B1A33F /* Maplestory.mp3 */; };
+		4308EB3221B2D26A00B1A33F /* 火影忍者.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB1F21B2D26900B1A33F /* 火影忍者.mp3 */; };
+		4308EB3321B2D26A00B1A33F /* Frozen - Let It Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2021B2D26900B1A33F /* Frozen - Let It Go.mp3 */; };
+		4308EB3421B2D26A00B1A33F /* 吳汶芳 - 孤獨的總和.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2121B2D26900B1A33F /* 吳汶芳 - 孤獨的總和.mp3 */; };
+		4308EB3521B2D26A00B1A33F /* OneRepublic - Good Life (mp3cut.net).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2221B2D26900B1A33F /* OneRepublic - Good Life (mp3cut.net).mp3 */; };
+		4308EB3621B2D26A00B1A33F /* MP魔幻力量 - 我還是愛著你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2321B2D26A00B1A33F /* MP魔幻力量 - 我還是愛著你.mp3 */; };
+		4308EB3721B2D26A00B1A33F /* 五月天 - 天使.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2421B2D26A00B1A33F /* 五月天 - 天使.mp3 */; };
+		4308EB3821B2D26A00B1A33F /* Sia - Chandelier.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2521B2D26A00B1A33F /* Sia - Chandelier.mp3 */; };
+		4308EB3921B2D26A00B1A33F /* 魏如昀 - 聽見下雨的聲音.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2621B2D26A00B1A33F /* 魏如昀 - 聽見下雨的聲音.mp3 */; };
+		4308EB3A21B2D26A00B1A33F /* 林俊傑 - 不為誰而作的歌.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2721B2D26A00B1A33F /* 林俊傑 - 不為誰而作的歌.mp3 */; };
+		4308EB3B21B2D26A00B1A33F /* 周杰倫 - 晴天.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2821B2D26A00B1A33F /* 周杰倫 - 晴天.mp3 */; };
+		4308EB3C21B2D26A00B1A33F /* 蘇打綠 - 小情歌.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB2921B2D26A00B1A33F /* 蘇打綠 - 小情歌.mp3 */; };
+		4308EB3E21B2D2F900B1A33F /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4308EB3D21B2D2F900B1A33F /* song.mp3 */; };
+		43B198C721B3345C00151821 /* Taylor Swift.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43B198C621B3345C00151821 /* Taylor Swift.jpg */; };
+		EC0CD81A1E6E325E00311194 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0CD8191E6E325E00311194 /* AppDelegate.swift */; };
+		EC0CD81C1E6E325E00311194 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0CD81B1E6E325E00311194 /* ViewController.swift */; };
+		EC0CD81F1E6E325E00311194 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0CD81D1E6E325E00311194 /* Main.storyboard */; };
+		EC0CD8211E6E325E00311194 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC0CD8201E6E325E00311194 /* Assets.xcassets */; };
+		EC0CD8241E6E325E00311194 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0CD8221E6E325E00311194 /* LaunchScreen.storyboard */; };
+		EC0CD82C1E6E400000311194 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0CD82B1E6E400000311194 /* QuestionViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4308EB1521B2D25D00B1A33F /* taylor swift - blank space.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "taylor swift - blank space.mp3"; path = "Songs/taylor swift - blank space.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1721B2D26800B1A33F /* 周湯豪 - 帥到分手.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "周湯豪 - 帥到分手.mp3"; path = "Songs/周湯豪 - 帥到分手.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1821B2D26800B1A33F /* 苏运莹 - 野子.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "苏运莹 - 野子.mp3"; path = "Songs/苏运莹 - 野子.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1921B2D26900B1A33F /* 久石壤 - Kaeru Hi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "久石壤 - Kaeru Hi.mp3"; path = "Songs/久石壤 - Kaeru Hi.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1A21B2D26900B1A33F /* 鄧紫棋 - 倒數.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "鄧紫棋 - 倒數.mp3"; path = "Songs/鄧紫棋 - 倒數.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1B21B2D26900B1A33F /* 孫燕姿 - 第一天.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "孫燕姿 - 第一天.mp3"; path = "Songs/孫燕姿 - 第一天.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1C21B2D26900B1A33F /* 棉花糖 - 欠一個勇敢.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "棉花糖 - 欠一個勇敢.mp3"; path = "Songs/棉花糖 - 欠一個勇敢.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1D21B2D26900B1A33F /* 夏婉安 - 習慣.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "夏婉安 - 習慣.mp3"; path = "Songs/夏婉安 - 習慣.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB1E21B2D26900B1A33F /* Maplestory.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Maplestory.mp3; path = Songs/Maplestory.mp3; sourceTree = SOURCE_ROOT; };
+		4308EB1F21B2D26900B1A33F /* 火影忍者.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "火影忍者.mp3"; path = "Songs/火影忍者.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2021B2D26900B1A33F /* Frozen - Let It Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Frozen - Let It Go.mp3"; path = "Songs/Frozen - Let It Go.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2121B2D26900B1A33F /* 吳汶芳 - 孤獨的總和.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "吳汶芳 - 孤獨的總和.mp3"; path = "Songs/吳汶芳 - 孤獨的總和.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2221B2D26900B1A33F /* OneRepublic - Good Life (mp3cut.net).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "OneRepublic - Good Life (mp3cut.net).mp3"; path = "Songs/OneRepublic - Good Life (mp3cut.net).mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2321B2D26A00B1A33F /* MP魔幻力量 - 我還是愛著你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "MP魔幻力量 - 我還是愛著你.mp3"; path = "Songs/MP魔幻力量 - 我還是愛著你.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2421B2D26A00B1A33F /* 五月天 - 天使.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "五月天 - 天使.mp3"; path = "Songs/五月天 - 天使.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2521B2D26A00B1A33F /* Sia - Chandelier.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Sia - Chandelier.mp3"; path = "Songs/Sia - Chandelier.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2621B2D26A00B1A33F /* 魏如昀 - 聽見下雨的聲音.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "魏如昀 - 聽見下雨的聲音.mp3"; path = "Songs/魏如昀 - 聽見下雨的聲音.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2721B2D26A00B1A33F /* 林俊傑 - 不為誰而作的歌.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "林俊傑 - 不為誰而作的歌.mp3"; path = "Songs/林俊傑 - 不為誰而作的歌.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2821B2D26A00B1A33F /* 周杰倫 - 晴天.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "周杰倫 - 晴天.mp3"; path = "Songs/周杰倫 - 晴天.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB2921B2D26A00B1A33F /* 蘇打綠 - 小情歌.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "蘇打綠 - 小情歌.mp3"; path = "Songs/蘇打綠 - 小情歌.mp3"; sourceTree = SOURCE_ROOT; };
+		4308EB3D21B2D2F900B1A33F /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = song.mp3; path = Songs/song.mp3; sourceTree = SOURCE_ROOT; };
+		43B198C621B3345C00151821 /* Taylor Swift.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Taylor Swift.jpg"; sourceTree = SOURCE_ROOT; };
+		EC0CD8161E6E325E00311194 /* QuestionsAnswers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuestionsAnswers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC0CD8191E6E325E00311194 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EC0CD81B1E6E325E00311194 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC0CD81E1E6E325E00311194 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EC0CD8201E6E325E00311194 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EC0CD8231E6E325E00311194 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EC0CD8251E6E325E00311194 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC0CD82B1E6E400000311194 /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC0CD8131E6E325E00311194 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC0CD80D1E6E325E00311194 = {
+			isa = PBXGroup;
+			children = (
+				EC0CD8181E6E325E00311194 /* QuestionsAnswers */,
+				EC0CD8171E6E325E00311194 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC0CD8171E6E325E00311194 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC0CD8161E6E325E00311194 /* QuestionsAnswers.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC0CD8181E6E325E00311194 /* QuestionsAnswers */ = {
+			isa = PBXGroup;
+			children = (
+				EC0CD8191E6E325E00311194 /* AppDelegate.swift */,
+				EC0CD81B1E6E325E00311194 /* ViewController.swift */,
+				EC0CD81D1E6E325E00311194 /* Main.storyboard */,
+				EC0CD82B1E6E400000311194 /* QuestionViewController.swift */,
+				EC0CD8201E6E325E00311194 /* Assets.xcassets */,
+				EC0CD8221E6E325E00311194 /* LaunchScreen.storyboard */,
+				EC0CD8251E6E325E00311194 /* Info.plist */,
+				4308EB3D21B2D2F900B1A33F /* song.mp3 */,
+				4308EB1521B2D25D00B1A33F /* taylor swift - blank space.mp3 */,
+				4308EB1921B2D26900B1A33F /* 久石壤 - Kaeru Hi.mp3 */,
+				4308EB2421B2D26A00B1A33F /* 五月天 - 天使.mp3 */,
+				4308EB1F21B2D26900B1A33F /* 火影忍者.mp3 */,
+				4308EB2121B2D26900B1A33F /* 吳汶芳 - 孤獨的總和.mp3 */,
+				4308EB2821B2D26A00B1A33F /* 周杰倫 - 晴天.mp3 */,
+				4308EB1721B2D26800B1A33F /* 周湯豪 - 帥到分手.mp3 */,
+				4308EB2721B2D26A00B1A33F /* 林俊傑 - 不為誰而作的歌.mp3 */,
+				4308EB1821B2D26800B1A33F /* 苏运莹 - 野子.mp3 */,
+				4308EB1D21B2D26900B1A33F /* 夏婉安 - 習慣.mp3 */,
+				4308EB1B21B2D26900B1A33F /* 孫燕姿 - 第一天.mp3 */,
+				4308EB1C21B2D26900B1A33F /* 棉花糖 - 欠一個勇敢.mp3 */,
+				4308EB1A21B2D26900B1A33F /* 鄧紫棋 - 倒數.mp3 */,
+				4308EB2621B2D26A00B1A33F /* 魏如昀 - 聽見下雨的聲音.mp3 */,
+				4308EB2921B2D26A00B1A33F /* 蘇打綠 - 小情歌.mp3 */,
+				4308EB2021B2D26900B1A33F /* Frozen - Let It Go.mp3 */,
+				4308EB1E21B2D26900B1A33F /* Maplestory.mp3 */,
+				4308EB2321B2D26A00B1A33F /* MP魔幻力量 - 我還是愛著你.mp3 */,
+				4308EB2221B2D26900B1A33F /* OneRepublic - Good Life (mp3cut.net).mp3 */,
+				4308EB2521B2D26A00B1A33F /* Sia - Chandelier.mp3 */,
+				43B198C621B3345C00151821 /* Taylor Swift.jpg */,
+			);
+			path = QuestionsAnswers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC0CD8151E6E325E00311194 /* QuestionsAnswers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC0CD8281E6E325E00311194 /* Build configuration list for PBXNativeTarget "QuestionsAnswers" */;
+			buildPhases = (
+				EC0CD8121E6E325E00311194 /* Sources */,
+				EC0CD8131E6E325E00311194 /* Frameworks */,
+				EC0CD8141E6E325E00311194 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuestionsAnswers;
+			productName = QuestionsAnswers;
+			productReference = EC0CD8161E6E325E00311194 /* QuestionsAnswers.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC0CD80E1E6E325E00311194 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Kinki Lai";
+				TargetAttributes = {
+					EC0CD8151E6E325E00311194 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = EC0CD8111E6E325E00311194 /* Build configuration list for PBXProject "QuestionsAnswers" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC0CD80D1E6E325E00311194;
+			productRefGroup = EC0CD8171E6E325E00311194 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC0CD8151E6E325E00311194 /* QuestionsAnswers */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC0CD8141E6E325E00311194 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4308EB3121B2D26A00B1A33F /* Maplestory.mp3 in Resources */,
+				EC0CD8241E6E325E00311194 /* LaunchScreen.storyboard in Resources */,
+				4308EB3A21B2D26A00B1A33F /* 林俊傑 - 不為誰而作的歌.mp3 in Resources */,
+				4308EB2B21B2D26A00B1A33F /* 苏运莹 - 野子.mp3 in Resources */,
+				4308EB3321B2D26A00B1A33F /* Frozen - Let It Go.mp3 in Resources */,
+				4308EB3E21B2D2F900B1A33F /* song.mp3 in Resources */,
+				4308EB2F21B2D26A00B1A33F /* 棉花糖 - 欠一個勇敢.mp3 in Resources */,
+				4308EB3C21B2D26A00B1A33F /* 蘇打綠 - 小情歌.mp3 in Resources */,
+				4308EB2E21B2D26A00B1A33F /* 孫燕姿 - 第一天.mp3 in Resources */,
+				4308EB3521B2D26A00B1A33F /* OneRepublic - Good Life (mp3cut.net).mp3 in Resources */,
+				4308EB3021B2D26A00B1A33F /* 夏婉安 - 習慣.mp3 in Resources */,
+				4308EB1621B2D25D00B1A33F /* taylor swift - blank space.mp3 in Resources */,
+				4308EB2C21B2D26A00B1A33F /* 久石壤 - Kaeru Hi.mp3 in Resources */,
+				EC0CD8211E6E325E00311194 /* Assets.xcassets in Resources */,
+				43B198C721B3345C00151821 /* Taylor Swift.jpg in Resources */,
+				4308EB2A21B2D26A00B1A33F /* 周湯豪 - 帥到分手.mp3 in Resources */,
+				4308EB3B21B2D26A00B1A33F /* 周杰倫 - 晴天.mp3 in Resources */,
+				4308EB3821B2D26A00B1A33F /* Sia - Chandelier.mp3 in Resources */,
+				4308EB3921B2D26A00B1A33F /* 魏如昀 - 聽見下雨的聲音.mp3 in Resources */,
+				4308EB3721B2D26A00B1A33F /* 五月天 - 天使.mp3 in Resources */,
+				4308EB3421B2D26A00B1A33F /* 吳汶芳 - 孤獨的總和.mp3 in Resources */,
+				4308EB3221B2D26A00B1A33F /* 火影忍者.mp3 in Resources */,
+				4308EB2D21B2D26A00B1A33F /* 鄧紫棋 - 倒數.mp3 in Resources */,
+				EC0CD81F1E6E325E00311194 /* Main.storyboard in Resources */,
+				4308EB3621B2D26A00B1A33F /* MP魔幻力量 - 我還是愛著你.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC0CD8121E6E325E00311194 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC0CD81C1E6E325E00311194 /* ViewController.swift in Sources */,
+				EC0CD81A1E6E325E00311194 /* AppDelegate.swift in Sources */,
+				EC0CD82C1E6E400000311194 /* QuestionViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EC0CD81D1E6E325E00311194 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC0CD81E1E6E325E00311194 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EC0CD8221E6E325E00311194 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC0CD8231E6E325E00311194 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC0CD8261E6E325E00311194 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EC0CD8271E6E325E00311194 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC0CD8291E6E325E00311194 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = QuestionsAnswers/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kinkijay.QuestionsAnswers;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		EC0CD82A1E6E325E00311194 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = QuestionsAnswers/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kinkijay.QuestionsAnswers;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC0CD8111E6E325E00311194 /* Build configuration list for PBXProject "QuestionsAnswers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC0CD8261E6E325E00311194 /* Debug */,
+				EC0CD8271E6E325E00311194 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC0CD8281E6E325E00311194 /* Build configuration list for PBXNativeTarget "QuestionsAnswers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC0CD8291E6E325E00311194 /* Debug */,
+				EC0CD82A1E6E325E00311194 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC0CD80E1E6E325E00311194 /* Project object */;
+}
